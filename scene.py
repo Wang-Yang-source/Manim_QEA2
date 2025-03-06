@@ -1,4 +1,4 @@
-from manim import Scene, Text, MathTex, VGroup, VMobject, Create, FadeOut, Write, DOWN, UP, LEFT, RIGHT, ORIGIN, PI, Arc, Line, Circle, Rectangle, Square, Arrow, YELLOW, GRAY, BLUE, GREEN, RED, WHITE, BLACK, ORANGE, RED_E, GREEN_E, BLUE_E, Table
+from manim import *
 import numpy as np
 
 class KirchhoffsLaws(Scene):

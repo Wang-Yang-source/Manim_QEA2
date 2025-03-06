@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/waya/Desktop/scene/media/videos/scene/1080p60/partial_movie_files/MechanicalElectricalAnalogy/3529212410_1195677087_223132457.mp4'
+file 'file:/Users/waya/Desktop/scene/media/videos/scene/1080p60/partial_movie_files/MechanicalElectricalAnalogy/3040924799_667144672_57653141.mp4'
+file 'file:/Users/waya/Desktop/scene/media/videos/scene/1080p60/partial_movie_files/MechanicalElectricalAnalogy/3040924799_4267369536_2623855536.mp4'
+file 'file:/Users/waya/Desktop/scene/media/videos/scene/1080p60/partial_movie_files/MechanicalElectricalAnalogy/3040924799_2537881814_939963640.mp4'
+file 'file:/Users/waya/Desktop/scene/media/videos/scene/1080p60/partial_movie_files/MechanicalElectricalAnalogy/3040924799_4247107814_1517172935.mp4'
+file 'file:/Users/waya/Desktop/scene/media/videos/scene/1080p60/partial_movie_files/MechanicalElectricalAnalogy/3040924799_2481648646_4088079993.mp4'
+file 'file:/Users/waya/Desktop/scene/media/videos/scene/1080p60/partial_movie_files/MechanicalElectricalAnalogy/3040924799_4071516364_2087177262.mp4'
+file 'file:/Users/waya/Desktop/scene/media/videos/scene/1080p60/partial_movie_files/MechanicalElectricalAnalogy/3040924799_2128494325_364945528.mp4'
+file 'file:/Users/waya/Desktop/scene/media/videos/scene/1080p60/partial_movie_files/MechanicalElectricalAnalogy/3040924799_4247107814_3606559503.mp4'
+file 'file:/Users/waya/Desktop/scene/media/videos/scene/1080p60/partial_movie_files/MechanicalElectricalAnalogy/3040924799_3597263811_3577007218.mp4'
