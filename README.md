@@ -11,7 +11,7 @@
 ![电路及机械系统建模预览](png/KirchhoffsLaws.gif)
 
 🔗 B
-站链接：[🎥 电路及机械系统建模与时域响应分析](https://www.bilibili.com/video/您的视频ID)
+站链接：[🎥 电路及机械系统建模与时域响应分析](https://www.bilibili.com/video/BV1RJRLY2EB8/?share_source=copy_web&vd_source=44b048ec540c248ddc4c1f93fecddf61)
 👈 点击观看完整视频！
 
 ### 📁 本地视频文件 💾
